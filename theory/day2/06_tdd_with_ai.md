@@ -73,7 +73,7 @@ Timing: 60 min
 ## Практика
 Timig: 40 min
   
-[Практика](/practice/day2/06_tdd_with_ai.md) - напишите кату Stock Portfolio по TDD с AI, контролируя и верифицируя каждый шаг.
+[Практика](../../practice/05_stock_portfolio/) - напишите кату Stock Portfolio по TDD с AI, контролируя и верифицируя каждый шаг.
 
 ## Дебриф
   

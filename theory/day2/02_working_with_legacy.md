@@ -28,7 +28,7 @@ Timing: 60 min
 ### Практика
 Timig: 20 min
   
-[Практика](/practice/day2/02_working_with_legacy.md) - напишите характеризационные тесты на Gilded Rose.
+[Практика](../../practice/03_gilded-rose/) - напишите характеризационные тесты на Gilded Rose.
 
 ## Golden Master
 - Когда есть четкие входные и выходные данные
@@ -45,7 +45,7 @@ Timig: 20 min
 ### Практика
 Timig: 20 min
   
-[Практика](/practice/day2/02_working_with_legacy.md) - напишите Golden Master тест на Gilded Rose.
+[Практика](../../practice/03_gilded-rose/) - напишите Golden Master тест на Gilded Rose.
 
 
 ## Дебриф
