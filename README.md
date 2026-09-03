@@ -18,8 +18,6 @@ cd ut-tdd-training
 
 В стартовом состоянии тесты Gilded Rose намеренно красные: placeholder-тесты являются частью каты, а не ошибкой окружения.
 
-Решения тренера доступны в ветках `04_solution` и `05_solution`.
-
 ## Источники
 
 - теория: [nchursin/ut-tdd-theory](https://github.com/nchursin/ut-tdd-theory)
