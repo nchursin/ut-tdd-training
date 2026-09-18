@@ -117,7 +117,7 @@ Timing: 60 min
 ## Практика
 Timing: 40 min
   
-[Практика](../../practice/02_string_calculator/) - реализовать String Calculator по TDD (разработка через тестирование)
+[Практика](../../practice/02_string_calculator/_tasks/01.md) - реализовать String Calculator по TDD (разработка через тестирование)
 
 **Дебриф на TDD**
 - Получилось ли сделать так, чтобы тесты стали вашими требованиями и быстрым фидбеком?
