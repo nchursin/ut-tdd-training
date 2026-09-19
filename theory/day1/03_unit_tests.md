@@ -18,7 +18,7 @@ Timing: 45 min
 - Устаешь как пёс, зато кайфуешь от результата
 
 ### Практика
-Timig: 10 min
+Timig: 20 min
 
 [Практика](../../practice/01_dices/_tasks/01.md) - написать unit тесты на код в упражнении Dice Roll Game.
 
