@@ -18,7 +18,7 @@ Timing: 45 min
    - player.buy(FIVE_CHIPS)
    - game.bet(player, THREE_CHIPS_ON_7)
    - Create.player()
-   - Create.player().with_100_chips().build()
+   - Create.player().with_five_chips().build()
    - Create.game().with_six_players().please()
    - assert player.balance() == 2_CHIPS
    - Assert.player_has_exactly_chips(player, TWO_CHIPS)
