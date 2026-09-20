@@ -15,11 +15,13 @@ Timing: 45 min
     - Скрытие данных: в тесте только то, что важно для теста
     - Легко расширять по аналогии
 - Примеры DSL
-   - player.buy(5_CHIPS)
+   - player.buy(FIVE_CHIPS)
+   - game.bet(player, THREE_CHIPS_ON_7)
    - Create.player()
    - Create.player().with_100_chips().build()
    - Create.game().with_six_players().please()
    - assert player.balance() == 2_CHIPS
+   - Assert.player_has_exactly_chips(player, TWO_CHIPS)
 
 ### Проектор: Практика. Упражнение про кассовый чек
 
