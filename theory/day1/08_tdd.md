@@ -7,7 +7,7 @@ Timing: 60 min
   
 ![tests_cost_value](assets/tests_cost_value.png)
   
-### Флип: Варианты
+### Варианты
 - CCC TTT
     - Отложенный фидбэк
     - Небезопасный рефакторинг
