@@ -40,7 +40,7 @@ Acceptance тесты на картинке из книги Agile Technical Prac
 - Рефакторим код и тесты
 - Часто коммитимся
 
-![atdd](/assets/atdd.png)
+![atdd](assets/atdd.png)
 
 
 ## Проектор: Демо. Упражнение про кассовый чек
