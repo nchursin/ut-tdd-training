@@ -36,4 +36,4 @@ Timing: 30 min
 ### Проектор
 Примеры кода на тесты и тестовые дублёры из репозитория с ответами.
   
-![clean unit meme](assets/clean_unit_meme.png)
+![clean unit meme](../day1/assets/clean_unit_meme.png)
